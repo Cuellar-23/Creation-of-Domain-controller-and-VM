@@ -1,1 +1,43 @@
-# Creation-of-Domain-controller-and-VM
+<h1>Creation-of-Domain-controller-and-VM</h1>
+
+<h2>Description</h2>
+ In this project I will create a simulated enterprise network by configuring two virtual machines (VMs): one running Windows Server 2022 and the other Windows 10 using Hyper-V. Once both machines were created in Hyper-V, I configured the Machines, assigning computer names and IP addresses. After that I performed a ping test ensuring both machines can communicate with one another. Next, I installed the Active Directory Domain Services (AD DS) role on the Windows Server Machine, promoted it to a domain controller, and joined the Windows 10 Machine to the newly created domain.  
+<br />
+
+<h2>Project walk-through:</h2>
+
+<p align="center">
+Creation of GreenEnergy_OU as well as the departments within Green Energy (Business, Engineering, IT. Research and development) via PowerShell: <br/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20135057.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Sub OUs for each department (Computers, Groups, Resources, Users) via PowerShell:  <br/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20140410.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Security groups For the IT department via PowerShell  <br/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20140628.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creation of user accounts and Account Passwords via PowerShell:  <br/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20141133.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add user to Security Groups and Administrators via PowerShell:  <br/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20141335.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add Computers to domain and assign to Organizational unit via PowerShell:  <br/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20141536.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
