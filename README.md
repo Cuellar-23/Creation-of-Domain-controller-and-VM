@@ -31,8 +31,8 @@ Server Manager dashboard after Active Directory role is added and DC01 is promot
 <img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20095147.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add Computers to domain and assign to Organizational unit via PowerShell:  <br/>
-<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20141536.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creation of my domian jcuellar.local and succesful join of PC01 to the domain :  <br/>
+<img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20095712.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
