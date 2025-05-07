@@ -11,11 +11,11 @@ Both Virtual Machines created in Hyper-V : <br/>
 <img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20084934.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Specification for DC01 (VM running Windows Server 2022):  <br/>
+Specifications for DC01 (VM running Windows Server 2022):  <br/>
 <img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20085346.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Specification for PC01 (VM running Windows 10)  <br/>
+Specifications for PC01 (VM running Windows 10)  <br/>
 <img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20085821.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
