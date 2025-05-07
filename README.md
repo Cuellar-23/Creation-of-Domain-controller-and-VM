@@ -7,8 +7,8 @@
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Creation of GreenEnergy_OU as well as the departments within Green Energy (Business, Engineering, IT. Research and development) via PowerShell: <br/>
-<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20135057.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Both Virtual Machines created in Hyper-V : <br/>
+<img src="https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/Screenshot%202025-05-07%20084934.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating Sub OUs for each department (Computers, Groups, Resources, Users) via PowerShell:  <br/>
